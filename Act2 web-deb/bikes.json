@@ -1,0 +1,94 @@
+
+[
+    {
+        "name": "Yamaha R15",
+        "price": 165000,
+        "engine": "155cc",
+        "description": "A sporty motorcycle designed for performance and style.",
+        "image": "images/yamaha r15.jpg"
+    },
+    {
+        "name": "Honda CBR150R",
+        "price": 183900,
+        "engine": "150cc",
+        "description": "A stylish sport bike with a comfortable riding position.",
+        "image": "images/honda cbr 150.jpg"
+    },
+    {
+        "name": "Kawasaki Ninja 400",
+        "price": 300000,
+        "engine": "399cc",
+        "description": "A powerful sport motorcycle made for exciting rides.",
+        "image": "images/kawasaki 400.png"
+    },
+    {
+        "name": "Suzuki Raider R150",
+        "price": 121000,
+        "engine": "150cc",
+        "description": "A lightweight underbone motorcycle with sporty styling.",
+        "image": "images/01-suzuki-raider.jpg"
+    },
+    {
+        "name": "Honda Click 160",
+        "price": 116900,
+        "engine": "157cc",
+        "description": "A modern scooter designed for convenient city travel.",
+        "image": "images/click 160.jpg"
+    },
+    {
+        "name": "Yamaha MT-15",
+        "price": 179000,
+        "engine": "155cc",
+        "description": "A naked street bike with aggressive styling and agility.",
+        "image": "images/Yamaha-MT.jpg"
+    },
+    {
+        "name": "Yamaha Siniper 150r",
+        "price": 125000,
+        "engine": "155cc",
+        "description": "A race-inspired sport bike with sharp handling.",
+        "image": "images/SNIPER155RBSP1-MBK.jpg"
+    },
+    {
+        "name": "Kawasaki Z1000r",
+        "price": 500000,
+        "engine": "1000cc",
+        "description": "A stylish big bike with a comfortable riding position.",
+        "image": "images/z100.jpg"
+    },
+    {
+        "name": "Kawasaki H2r",
+        "price": 1500000,
+        "engine": "147cc",
+        "description": "A lightweight sport bike with a powerful engine.",
+        "image": "images/kawasaki h2r.jpg"
+    },
+    {
+        "name": "Yamaha Nmax 155",
+        "price": 167000,
+        "engine": "155cc",
+        "description": "A lightweight scooter bike with a powerful engine.",
+        "image": "images/yamaha nmax 160.jpg"
+    },
+    {
+        "name": "Honda PCX 160",
+        "price": 155000,
+        "engine": "160cc",
+        "description": "A stylish scooter with a comfortable riding position.",
+        "image": "images/Honda Pcx.jpg"
+    },
+    {
+        "name": "Motor ng Tomboy",
+        "price": 150,
+        "engine": "169cc",
+        "description": "A race-inspired sport bike with sharp handling.",
+        "image": "images/mio-sporty-front.jpg"
+    },
+    {
+        "name": "Special Edition",
+        "price": 20000,
+        "engine": "69cc",
+        "description": "A race-inspired sport bike with sharp handling.",
+        "image": "images/pajero.jpg"
+    }
+]
