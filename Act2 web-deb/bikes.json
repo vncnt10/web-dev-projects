@@ -89,6 +89,34 @@
         "price": 20000,
         "engine": "69cc",
         "description": "A race-inspired sport bike with sharp handling.",
-        "image": "images/pajero.jpg"
+        "image": "images/special.jpg"
+    },
+    {
+        "name": "Honda Click 160 V2",
+        "price": 110000,
+        "engine": "160cc",
+        "description": "A lightweight underbone motorcycle with sporty styling.",
+        "image": "images/Event-Photo-2-Click160.avif"
+    },
+    {
+        "name": "Ducati Monster 821",
+        "price": 120000,
+        "engine": "1000cc",
+        "description": "A modern scooter designed for convenient city travel.",
+        "image": "images/2019-Ducati-Monster-821c.jpg"
+    },
+    {
+        "name": "Honda Navii 110",
+        "price": 130000,
+        "engine": "110cc",
+        "description": "A naked street bike with aggressive styling and agility.",
+        "image": "images/HONDA NAVI.jpg"
+    },
+    {
+        "name": "Honda Wave Alpha 110",
+        "price": 1000000000000,
+        "engine": "373cc",
+        "description": "A race-inspired sport bike with sharp handling.",
+        "image": "images/ktm rc 390.jpg"
     }
 ]
